@@ -23,3 +23,16 @@ Narrative BI | Data analysis | |
 The Athletic | Sportsball writing | https://www.theathletic.com/help/cancel-subscription/ | help@theathletic.com
 Therabody | LED light/massage gun thing | | support@therabody.com
 Watch Gang | Watch blog | | support@watchgang.com
+
+# Sample Email
+
+Dear [Advertiser],
+
+I am writing to express my disappointment that your company continues to advertise on Twitter. While I understand the platform's value as a means of reaching a large audience, I cannot in good conscience support a company that chooses to advertise on a platform that has demonstrated a lack of commitment to combating misinformation and hate speech.
+
+I hope that you will consider suspending ad purchases on Twitter in order to retain my business and the business of other consumers who share my values.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+[Your Name]
