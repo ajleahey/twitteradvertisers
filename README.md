@@ -9,6 +9,7 @@ Company | Notes
 [Duck Duck Go](https://duckduckgo.com) | "Privacy" focused search engine and service provider. 
 [ESPN](https://espn.com) | Sportsball writing 
 [Fanduel](https://fanduel.com) | Sportsball gambling 
+[NFL](https://nfl.com) | Football
 [Pepsi](https://pepsi.com) | Fizzy drinks, etc. 
 [Puck](https://puck.news) | News platform.  
 [Narrative BI](https://narrative.bi) | Data analysis
