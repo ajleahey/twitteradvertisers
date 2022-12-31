@@ -8,6 +8,7 @@ Company | Notes | Link to Cancel | Customer Service Email
 365Economist | Content farm? | | 
 American Tax Payer | SpaceX is funded through government grants and is now a huge buyer of Twitter ads. | | 
 Amazon | Noted purveyor of everything. | [Link](https://www.amazon.com/gp/help/customer/display.html?nodeId=202189180) | 
+Appwrite.io | Open source service provider. | |
 Cultivate | Shopping extension | | 
 Duck Duck Go | "Privacy" focused search engine and service provider. | | support@duckduckgo.com
 ESPN | Sportsball writing | [Link](https://www.espn.com/watch/help) | 
@@ -18,6 +19,7 @@ HBOMax | Streaming service | [Link](https://help.hbomax.com/hc/en-us/articles/36
 MasterWorks | Art investment | | 
 Neom | Saudi Arabian future-city | | 
 NFL | Football | | 
+Nuzu.io | Storefront | |
 Pepsi | Fizzy drinks, etc. | | 
 Puck | News platform. | | 
 Narrative BI | Data analysis | | 
