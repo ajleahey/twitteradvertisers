@@ -10,5 +10,6 @@ Company | Notes
 [ESPN](https://espn.com) | Sportsball writing 
 [Fanduel](https://fanduel.com) | Sportsball gambling 
 [Pepsi](https://pepsi.com) | Fizzy drinks, etc. 
+[Puck](https://puck.news) | News platform.  
 [Narrative BI](https://narrative.bi) | Data analysis
 [The Athletic](https://theathletic.com) | Sportsball writing 
