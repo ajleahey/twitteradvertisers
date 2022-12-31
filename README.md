@@ -1,5 +1,6 @@
 # Twitter Advertisers
 Exactly what it says on the tin. A list of advertisers that remain on Twitter. 
+Please don't be afraid to contribute. 
 
 # Companies
 Company | Notes | Link to Cancel | Customer Service Email
