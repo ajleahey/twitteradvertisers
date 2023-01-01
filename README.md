@@ -18,6 +18,7 @@ Fanduel | Sportsball gambling | [Link](https://www.fanduel.com/support/cancel-ac
 HBOMax | Streaming service | [Link](https://help.hbomax.com/hc/en-us/articles/360053156871-Cancel-your-subscription) | 
 MasterWorks | Art investment | | 
 Neom | Saudi Arabian future-city | | 
+Norro_co | Gadget and doo-dad store | |
 NFL | Football | | 
 Nuzu.io | Storefront | |
 Pepsi | Fizzy drinks, etc. | | 
