@@ -26,6 +26,7 @@ Puck | News platform. | |
 Narrative BI | Data analysis | | 
 The Athletic | Sportsball writing | [Link](https://www.theathletic.com/help/cancel-subscription/) | help@theathletic.com
 Therabody | LED light/massage gun thing | | support@therabody.com
+TLDR.tech | Tech newsletter | |
 Watch Gang | Watch blog | | support@watchgang.com
 
 
