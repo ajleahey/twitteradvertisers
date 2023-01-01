@@ -6,7 +6,7 @@ Please don't be afraid to contribute.
 Company | Notes | Link to Cancel | Customer Service Email
 --- | --- | --- | ---
 365Economist | Content farm? | | 
-American Tax Payer | SpaceX is funded through government grants and is now a huge buyer of Twitter ads. | | 
+American Tax Payer | SpaceX is funded through government grants and is now [a huge buyer of Twitter ads](https://www.cnbc.com/2022/11/14/spacex-just-bought-a-big-ad-campaign-on-twitter-for-starlink.html). | | 
 Amazon | Noted purveyor of everything. | [Link](https://www.amazon.com/gp/help/customer/display.html?nodeId=202189180) | 
 Appwrite.io | Open source service provider. | |
 Cultivate | Shopping extension | | 
