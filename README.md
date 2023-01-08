@@ -9,6 +9,7 @@ Company | Notes | Link to Cancel | Customer Service Email
 American Tax Payer | SpaceX is funded through government grants and is now [a huge buyer of Twitter ads](https://www.cnbc.com/2022/11/14/spacex-just-bought-a-big-ad-campaign-on-twitter-for-starlink.html). | | 
 Amazon | Noted purveyor of everything. | [Link](https://www.amazon.com/gp/help/customer/display.html?nodeId=202189180) | 
 Appwrite.io | Open source service provider. | |
+Apple TV+ | Ted Lasso streaming service. | |
 Cultivate | Shopping extension | | 
 Duck Duck Go | "Privacy" focused search engine and service provider. | | support@duckduckgo.com
 ESPN | Sportsball writing | [Link](https://www.espn.com/watch/help) | 
@@ -24,6 +25,7 @@ Nuzu.io | Storefront | |
 Pepsi | Fizzy drinks, etc. | | 
 Puck | News platform. | | 
 Narrative BI | Data analysis | | 
+SalesForce | Cloud software | |
 The Athletic | Sportsball writing | [Link](https://www.theathletic.com/help/cancel-subscription/) | help@theathletic.com
 Therabody | LED light/massage gun thing | | support@therabody.com
 TLDR.tech | Tech newsletter | |
